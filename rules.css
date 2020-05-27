@@ -1,0 +1,16 @@
+p{
+    font-family: Lato;
+    font-size:large;
+    color: white;
+    
+}
+h1{
+    color: whitesmoke;
+}
+a{
+    
+    color: white;
+}
+a:hover{
+    font-weight: 700;
+}
